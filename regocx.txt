@@ -1,0 +1,9 @@
+SAMPLE FILE
+
+count=2
+wintext=initializing, please wait...
+class1=CLASS NAME
+file1=FILE NAME
+class2=CLASS NAME
+file2=FILE NAME
+run=calc.exe
